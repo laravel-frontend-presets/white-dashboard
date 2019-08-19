@@ -1,0 +1,22 @@
+{
+    "name": "laravel-frontend-presets/white-dashboard",
+    "description": "Laravel 5.x Front-end preset for white dashboard",
+    "license": "MIT",
+    "homepage": "https://github.com/creativetimofficial/white-dashboard-laravel",
+    "keywords": ["Laravel", "Preset", "White"],
+    "require": {
+        "laravel/framework": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "LaravelFrontendPresets\\WhitePreset\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelFrontendPresets\\WhitePreset\\WhitePresetServiceProvider"
+            ]
+        }
+    }
+}
