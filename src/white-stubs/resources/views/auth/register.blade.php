@@ -53,7 +53,7 @@
                                     <i class="tim-icons icon-single-02"></i>
                                 </div>
                             </div>
-                            <input type="text" name="name" class="form-control{{ $errors->has('name') ? ' is-invalid' : '' }}" placeholder="{{ _('Name') }}">
+                            <input type="text" name="name" class="form-control{{ $errors->has('name') ? ' is-invalid' : '' }}" placeholder="{{ _('Name') }}" value="{{ old('name') }}">
                             @include('alerts.feedback', ['field' => 'name'])
                         </div>
                         <div class="input-group{{ $errors->has('email') ? ' has-danger' : '' }}">
@@ -62,7 +62,7 @@
                                     <i class="tim-icons icon-email-85"></i>
                                 </div>
                             </div>
-                            <input type="email" name="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" placeholder="{{ _('Email') }}">
+                            <input type="email" name="email" class="form-control{{ $errors->has('email') ? ' is-invalid' : '' }}" placeholder="{{ _('Email') }}" value="{{ old('email') }}">
                             @include('alerts.feedback', ['field' => 'email'])
                         </div>
                         <div class="input-group{{ $errors->has('password') ? ' has-danger' : '' }}">
@@ -82,12 +82,13 @@
                             </div>
                             <input type="password" name="password_confirmation" class="form-control" placeholder="{{ _('Confirm Password') }}">
                         </div>
-                        <div class="form-check text-left">
+                        <div class="form-check text-left {{ $errors->has('password') ? ' has-danger' : '' }}">
                             <label class="form-check-label">
-                                <input class="form-check-input" type="checkbox">
+                                <input class="form-check-input {{ $errors->has('agree_terms_and_conditions') ? ' is-invalid' : '' }}" name="agree_terms_and_conditions"  type="checkbox"  {{ old('agree_terms_and_conditions') ? 'checked' : '' }}>
                                 <span class="form-check-sign"></span>
                                 {{ _('I agree to the') }}
                                 <a href="#">{{ _('terms and conditions') }}</a>.
+                                @include('alerts.feedback', ['field' => 'agree_terms_and_conditions'])
                             </label>
                         </div>
                     </div>

@@ -112,6 +112,7 @@ class WhitePreset extends Preset
         static::deleteResource('views/home.blade.php');
         static::copyDirectory('resources/views/auth', resource_path('views/auth'));
         static::copyDirectory('resources/views/alerts', resource_path('views/alerts'));
+        static::copyFile('app/Http/Controllers/Auth/RegisterController.php', app_path('Http/Controllers/Auth/RegisterController.php'));
     }
     
     /**

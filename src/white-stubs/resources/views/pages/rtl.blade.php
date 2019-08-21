@@ -24,7 +24,7 @@
     <link href="{{ asset('white') }}/demo/demo.css" rel="stylesheet" />
 </head>
 
-<body class=" rtl menu-on-right ">
+<body class=" rtl menu-on-right white-content">
   <div class="wrapper">
     <div class="sidebar">
       <!--
