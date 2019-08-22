@@ -36,7 +36,7 @@ var seq2 = 0,
  * Product Page: https://www.creative-tim.com/product/white-dashboard
  * Copyright 2018 Creative Tim (http://www.creative-tim.com) & UPDIVISION (https://updivision.com)
 
- * Coded by www.creative-tim.com
+ * Coded by www.creative-tim.com & www.updivision.com
 
  =========================================================
 
