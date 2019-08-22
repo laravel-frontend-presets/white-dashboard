@@ -492,9 +492,9 @@ We use GitHub Issues as the official bug tracker for the White Dashboard Laravel
 ## Useful Links
 
 - [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new/?ref=wdl-readme) (earn money)
+- [Blog Creative Tim](http://blog.creative-tim.com/?ref=wdl-readme)
+- [Free Products](https://www.creative-tim.com/bootstrap-themes/free/?ref=wdl-readme) from Creative Tim
 - [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=wdl-readme) from Creative Tim
 - [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=wdl-readme) from Creative Tim
 - [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=wdl-readme) from Creative Tim
