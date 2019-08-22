@@ -2,8 +2,6 @@
 
 <a href="https://packagist.org/packages/laravel-frontend-presets/white-dashboard"><img src="https://poser.pugx.org/laravel-frontend-presets/white-dashboard/v/stable.svg" alt="Latest Stable Version"></a> ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/white-dashboard.svg)](https://github.com/laravel-frontend-presets/white-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/white-dashboard.svg)](https://github.com/laravel-frontend-presets/white-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-*Frontend version*: White Dashboard v1.0.0. More info at https://www.creative-tim.com/product/white-dashboard
-
 ![Product Image](/screens/intro-white.gif)
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 5.5 and up.
@@ -151,12 +149,11 @@ public function store(UserRequest $request, User $model)
 
 ## Versions
 
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=wdl-readme)
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=wdl-readme)
 
-| HTML | LARAVEL |
-| --- | --- |
-| [![White Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/white-dashboard/examples/dashboard.html?ref=wdl-readme) | [![White Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg?1561102244)](https://www.creative-tim.com/live/white-dashboard-laravel?ref=wdl-readme)
+| LARAVEL |
+| --- |
+| [![White Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg?1561102244)](https://www.creative-tim.com/live/white-dashboard-laravel?ref=wdl-readme)
 
 ## Demo
 
@@ -462,12 +459,12 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation: <https://www.creative-tim.com/live/white-dashboard-laravel/docs/getting-started/laravel-setup.html?ref=wdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/white-dashboard/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/white-dashboard/issues)
 - **Dashboards:**
 
-| HTML | LARAVEL |
-| --- | --- |
-| [![White Dashboard HTML](https://s3.amazonaws.com/creativetim_bucket/products/93/original/opt_bd_thumbnail.jpg?1535098178)](https://demos.creative-tim.com/white-dashboard/examples/dashboard.html?ref=wdl-readme) | [![White Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg?1561102244)](https://www.creative-tim.com/live/white-dashboard-laravel/?ref=wdl-readme)
+| LARAVEL |
+| --- |
+| [![White Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg?1561102244)](https://www.creative-tim.com/live/white-dashboard-laravel/?ref=wdl-readme)
 
 ## Change log
 
