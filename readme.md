@@ -464,7 +464,7 @@ At present, we officially aim to support the last two versions of the following 
 
 | LARAVEL |
 | --- |
-| [![White Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/164/original/opt_blk_laravel_thumbnail.jpg?1561102244)](https://www.creative-tim.com/live/white-dashboard-laravel/?ref=wdl-readme)
+| [![White Dashboard Laravel](https://s3.amazonaws.com/creativetim_bucket/products/215/original/opt_wd_laravel_thumbnail.jpg?1567087179)](https://www.creative-tim.com/live/white-dashboard-laravel/?ref=wdl-readme)
 
 ## Change log
 
