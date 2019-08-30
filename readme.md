@@ -167,7 +167,7 @@ public function store(UserRequest $request, User $model)
 [View More](https://www.creative-tim.com/live/white-dashboard-laravel/?ref=wdl-readme)
 
 ## Documentation
-The documentation for the White Dashboard Laravel is hosted at our [website](https://white-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html?ref=wdl-readme).
+The documentation for the White Dashboard Laravel is hosted at our [website](https://www.creative-tim.com/live/white-dashboard-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=wdl-readme).
 
 ## File Structure
 ```
@@ -454,12 +454,12 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- Demo: <https://www.creative-tim.com/live/white-dashboard-laravel/?ref=wdl-readme>
+- Demo: <https://www.creative-tim.com/live/white-dashboard-pro-laravel/?ref=wdl-readme>
 - Download Page: <https://www.creative-tim.com/product/white-dashboard-laravel?ref=wdl-readme>
-- Documentation: <https://www.creative-tim.com/live/white-dashboard-laravel/docs/getting-started/laravel-setup.html?ref=wdl-readme>
+- Documentation: <https://www.creative-tim.com/live/white-dashboard-pro-laravel/?start-page=/docs/getting-started/laravel-setup.html&ref=wdl-readme>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/white-dashboard/issues)
+- Issues: [Github Issues Page](https://github.com/laravel-frontend-presets/white-dashboard/issues)
 - **Dashboards:**
 
 | LARAVEL |
