@@ -343,7 +343,7 @@
         </div>
         <div class="alert alert-danger">
             <span>
-              <b> Danger - </b> This is a regular notification made with ".alert-danger"</span>
+              <b> </b> This is a PRO feature!</span>
           </div>
     </div>
 </div>
