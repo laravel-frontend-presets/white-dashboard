@@ -71,7 +71,7 @@
                     <p>{{ _('RTL Support') }}</p>
                 </a>
             </li>
-            <li class=" {{ $pageSlug == 'upgrade' ? 'active' : '' }}">
+            <li class=" {{ $pageSlug == 'upgrade' ? 'active' : '' }} bg-info">
                 <a href="{{ route('pages.upgrade') }}">
                     <i class="tim-icons icon-spaceship"></i>
                     <p>{{ _('Upgrade to PRO') }}</p>
