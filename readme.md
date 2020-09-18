@@ -36,7 +36,7 @@ After initializing a fresh instance of Laravel (and making all the necessary con
 5. In your terminal run `composer dump-autoload`
 6. Run `php artisan migrate --seed` to create basic users table
 
-### By using the archive
+### By using the archive 
 
 1. In your application's root create a **presets** folder
 2. [Download an archive](https://github.com/laravel-frontend-presets/white-dashboard/archive/master.zip) of the repo and unzip it
