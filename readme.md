@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/white-dashboard.svg)](https://github.com/laravel-frontend-presets/white-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/white-dashboard.svg)](https://github.com/laravel-frontend-presets/white-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-![Product Image](/screens/intro-white.gif)
+<img src="/screens/intro-white.gif" width=100% />
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 8.x and up.
 
