@@ -2,7 +2,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0.1-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/laravel-frontend-presets/white-dashboard.svg)](https://github.com/laravel-frontend-presets/white-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/laravel-frontend-presets/white-dashboard.svg)](https://github.com/laravel-frontend-presets/white-dashboard/issues?q=is%3Aissue+is%3Aclosed)
 
-<img src="/screens/intro-white.gif" width=90% />
+[<img src="https://s3.amazonaws.com/creativetim_bucket/products/215/original/opt_wd_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/white-dashboard-laravel) 
 
 Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
 
