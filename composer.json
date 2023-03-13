@@ -1,11 +1,11 @@
 {
     "name": "laravel-frontend-presets/white-dashboard",
-    "description": "Laravel 5.x Front-end preset for white dashboard",
+    "description": "Laravel 10.x Front-end preset for white dashboard",
     "license": "MIT",
     "homepage": "https://github.com/creativetimofficial/white-dashboard-laravel",
     "keywords": ["Laravel", "Preset", "White"],
     "require": {
-        "laravel/framework": "^9.0",
+        "laravel/framework": "^10.0",
         "laravel/legacy-factories": "^1.0"
     },
     "autoload": {
