@@ -4,7 +4,7 @@
 
 [<img src="https://s3.amazonaws.com/creativetim_bucket/products/215/original/opt_wd_laravel_thumbnail.jpg" width="100%" />](https://www.creative-tim.com/live/white-dashboard-laravel) 
 
-Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 9.x and up.
+Speed up your web development with the Bootstrap 4 Admin Dashboard built for Laravel Framework 11.x and up.
 
 If you want to get more features, go PRO with [White Dashboard PRO Laravel](https://www.creative-tim.com/product/white-dashboard-pro-laravel).
 
@@ -21,7 +21,7 @@ If you don't already have an Apache local environment with PHP and MySQL, use on
 
 Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md
 
-And Laravel: https://laravel.com/docs/10.x
+And Laravel: https://laravel.com/docs/11.x
 
 ## Installation
 
@@ -31,7 +31,7 @@ After initializing a fresh instance of Laravel (and making all the necessary con
 
 1. `Cd` to your Laravel app  
 2. Type in your terminal: `composer require laravel/ui` and `php artisan ui vue --auth`
-3. Install this preset via `composer require laravel-frontend-presets/white-dashboard`. No need to register the service provider. Laravel 9.x & up can auto detect the package.
+3. Install this preset via `composer require laravel-frontend-presets/white-dashboard`. No need to register the service provider. Laravel 11.x & up can auto detect the package.
 4. Run `php artisan ui white` command to install the Argon preset. This will install all the necessary assets and also the custom auth views, it will also add the auth route in `routes/web.php`
 (NOTE: If you run this command several times, be sure to clean up the duplicate Auth entries in routes/web.php)
 5. In your terminal run `composer dump-autoload`
